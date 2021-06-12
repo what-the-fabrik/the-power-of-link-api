@@ -1,4 +1,13 @@
 {
+    "clue/stdio-react": {
+        "version": "v2.4.0"
+    },
+    "clue/term-react": {
+        "version": "v1.3.0"
+    },
+    "clue/utf8-react": {
+        "version": "v1.2.0"
+    },
     "doctrine/annotations": {
         "version": "1.0",
         "recipe": {
@@ -97,8 +106,14 @@
     "egulias/email-validator": {
         "version": "2.1.25"
     },
+    "evenement/evenement": {
+        "version": "v3.0.1"
+    },
     "friendsofphp/proxy-manager-lts": {
         "version": "v1.0.5"
+    },
+    "jolicode/jolinotif": {
+        "version": "v2.3.0"
     },
     "laminas/laminas-code": {
         "version": "4.3.0"
@@ -174,6 +189,12 @@
     "psr/log": {
         "version": "1.1.4"
     },
+    "react/event-loop": {
+        "version": "v1.1.1"
+    },
+    "react/stream": {
+        "version": "v1.1.1"
+    },
     "sebastian/cli-parser": {
         "version": "1.0.1"
     },
@@ -221,6 +242,9 @@
     },
     "sebastian/version": {
         "version": "3.0.2"
+    },
+    "spatie/phpunit-watcher": {
+        "version": "1.23.1"
     },
     "symfony/browser-kit": {
         "version": "v5.1.11"
@@ -371,6 +395,9 @@
     "symfony/polyfill-php80": {
         "version": "v1.23.0"
     },
+    "symfony/process": {
+        "version": "v5.1.11"
+    },
     "symfony/profiler-pack": {
         "version": "v1.0.5"
     },
@@ -497,5 +524,8 @@
     },
     "webmozart/assert": {
         "version": "1.10.0"
+    },
+    "yosymfony/resource-watcher": {
+        "version": "v2.0.1"
     }
 }
